@@ -1,4 +1,4 @@
 # ML
-Aprendizado de Máquina (7º Semestre)
+Machine Learning (7th semester)
 
 Grupo: Vinícius Speck, Rodrigo Correia
